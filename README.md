@@ -1,2 +1,1 @@
-# Instructions in order to use this app
-# Empty for now, we'll use the word file instead
+# This is an assignment to understand azure app deployment with azure sql database.
